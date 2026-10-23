@@ -1,0 +1,12 @@
+{
+  "capabilities": [],
+  "claims": [],
+  "evidence_maturity": "architecture_only",
+  "lifecycle": "local_scaffold",
+  "qualified_owned_schema_ids": [],
+  "repository_name": "DEPLOY-PACK",
+  "source_metadata": {
+    "path": "repository-domain.json",
+    "sha256": "83b53d0ce8d12897e9af048b4f267052e3351f59f5fb23523847707fc6f96d48"
+  }
+}

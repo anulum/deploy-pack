@@ -1,0 +1,18 @@
+{
+  "title": "DEPLOY-PACK",
+  "upload_type": "software",
+  "description": "Local repository validation tooling and architecture for evidence-bound deployment packages. No deployment runtime, device qualification or release is declared.",
+  "creators": [
+    {
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851",
+      "affiliation": "ANULUM"
+    }
+  ],
+  "license": "AGPL-3.0-or-later",
+  "keywords": [
+    "deployment evidence",
+    "repository validation",
+    "neuromorphic computing"
+  ]
+}
