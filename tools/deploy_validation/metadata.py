@@ -17,7 +17,7 @@ from deploy_validation.inputs import read_file, read_json
 from deploy_validation.report import Finding, Refusal, Report
 
 # Reviewed independently of the descriptor. Policy updates require code review.
-SCHEMA_SHA256 = "0d8224ec9cd30ae1d1c4de16c75c5e0a225c3cafe4b2f80b4d169f95467c5117"
+SCHEMA_SHA256 = "07d4ec7a4fa07710c5fca407725f208af90ade1589b204f1aeac6b4d0b270205"
 SCHEMA_PATH = "schemas/repository-domain.schema.json"
 METADATA_PATH = "repository-domain.json"
 

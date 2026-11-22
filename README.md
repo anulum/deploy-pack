@@ -12,6 +12,8 @@ DEPLOY-PACK — repository governance and provenance
 
 DEPLOY-PACK defines a boundary for evidence-bound neuromorphic deployment packages and explicit per-unit operation contracts. The current implementation provides repository validation tooling. Package composition, domain verification, installation, update and rollback remain planned; no deployment runtime or qualified device capability is installed.
 
+DEPLOY-PACK is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 The local metadata explicitly records `local_scaffold`, `architecture_only`, empty capabilities, claims and qualified schemas. The planned identifier `deploy_pack.package.v1` is a declaration, not a registered or accepted evidence format.
 
 ## Validate repository metadata
